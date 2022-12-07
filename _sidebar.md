@@ -1,1 +1,1 @@
-* [MySQL](/mysql/)
+* [MySQL](/mysql/readme.md)
